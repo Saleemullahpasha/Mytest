@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Dev') {
       steps {
-        echo 'Done'
+        echo 'This is first CI/CD pipline'
       }
     }
 
